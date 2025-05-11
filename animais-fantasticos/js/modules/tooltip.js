@@ -26,7 +26,6 @@ export default class initTooltip {
     currentTarget.removeEventListener("mousemove", this.onMouseMove);
   }
 
-
   // Cria a tooltipbox e coloca no body
   criarTooltipBox(element) {
     const tooltipBox = document.createElement("div");

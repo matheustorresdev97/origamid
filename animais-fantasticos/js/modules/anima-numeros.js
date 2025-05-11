@@ -42,7 +42,6 @@ export default class initAnimaNumeros {
     }
   }
 
-
   // Adiciona o MutationObserver para verificar
   // quando a classe ativo é adicionada ao elemento target
   addMutationObserver() {
