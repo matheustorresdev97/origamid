@@ -1,0 +1,10 @@
+## 🚀 Sobre
+Este repositório contém todos os projetos práticos desenvolvidos durante minha jornada de aprendizado na plataforma Origamid. Os projetos abrangem desde fundamentos de HTML e CSS até aplicações avançadas com JavaScript e TypeScript.
+
+## 📂 Estrutura de Projetos
+
+### 🎯 HTML e CSS
+
+- [Bikcraft](bikcraft) - Site completo para uma empresa fictícia de bicicletas personalizadas
+
+<img src="./screenshots/bikcraft.png" alt="Projeto Bikcraft" width="500">
