@@ -14,3 +14,5 @@ Este repositório contém todos os projetos práticos desenvolvidos durante minh
 - [Portfolio](portfolio) -  Projeto de portfólio pessoal responsivo
 
 - [Bikcraftv2](bikcraftv2) -  Site completo para uma empresa fictícia de bicicletas personalizadas numa nova versão
+
+- [Forest](forest) - Projeto de site para empresa de preservação ambiental com foco em acomodações, eventos feito em tailwind v4
