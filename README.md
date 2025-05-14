@@ -10,3 +10,7 @@ Este repositório contém todos os projetos práticos desenvolvidos durante minh
 - [Flexblog](flexblog) -  Blog desenvolvido para domínio de Flexbox
 
 - [Wildbeast](wildbeast) -  Projeto para prática de CSS Grid Layout
+
+- [Portfolio](portfolio) -  Projeto de portfólio pessoal responsivo
+
+- [Bikcraftv2](bikcraftv2) -  Site completo para uma empresa fictícia de bicicletas personalizadas numa nova versão
