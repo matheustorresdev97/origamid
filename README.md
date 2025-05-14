@@ -7,11 +7,6 @@ Este repositório contém todos os projetos práticos desenvolvidos durante minh
 
 - [Bikcraft](bikcraft) - Site completo para uma empresa fictícia de bicicletas personalizadas
 
-<img src="./screenshots/bikcraft.png" alt="Projeto Bikcraft" width="500">
-
 - [Flexblog](flexblog) -  Blog desenvolvido para domínio de Flexbox
 
-<img src="./screenshots/flexblog1.png" alt="Projeto FlexBlog" width="480">
-<img src="./screenshots/flexblog2.png" alt="Projeto FlexBlog" width="500">
-<img src="./screenshots/flexblog3.png" alt="Projeto FlexBlog" width="500">
-<img src="./screenshots/flexblog4.png" alt="Projeto FlexBlog" width="500">
+- [Wildbeast](wildbeast) -  Projeto para prática de CSS Grid Layout
