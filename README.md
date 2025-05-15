@@ -16,3 +16,7 @@ Este repositório contém todos os projetos práticos desenvolvidos durante minh
 - [Bikcraftv2](bikcraftv2) -  Site completo para uma empresa fictícia de bicicletas personalizadas numa nova versão
 
 - [Forest](forest) - Projeto de site para empresa de preservação ambiental com foco em acomodações, eventos feito em tailwind v4
+
+### 🟡 JavaScript e 🔷 TypeScript
+
+- [Animais Fantásticos](animais-fantasticos) - Site interativo com scroll suave, navegação por tabs, requisições fetch e modal utilizando Javascript
