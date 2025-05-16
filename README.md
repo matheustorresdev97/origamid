@@ -21,3 +21,4 @@ Este repositório contém todos os projetos práticos desenvolvidos durante minh
 
 - [Animais Fantásticos](animais-fantasticos) - Site interativo com scroll suave, navegação por tabs, requisições fetch e modal utilizando Javascript
 - [TypeScript API](pratica-dados) - Consumo de APIs com TypeScript
+- [TypeScript DOM](pratica-dom) - Manipulação do DOM com TypeScript 
